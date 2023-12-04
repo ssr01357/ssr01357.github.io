@@ -64,3 +64,8 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+
+# _config.yml
+include:
+  - _pages
