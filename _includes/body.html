@@ -1,11 +1,7 @@
 <div class="page-wrapper" tabindex="-1" role="main">
     {% if page.cover %}
-        <img src="{{ page.cover }}"
-             width="100%"
-             height="{{ page.cover_height | default: '100%' }}"
-             alt="{{ page.title | escape }}"
-             style="object-fit: cover;"
-        />
+    <img src="{{ page.cover }}" width="100%" height="{{ page.cover_height | default: '100%' }}"
+        alt="{{ page.title | escape }}" style="object-fit: cover;" />
     {% endif %}
 
     <div class="page-inner">
@@ -13,16 +9,19 @@
             <div class="search-noresults">
                 <section class="normal markdown-section">
                     {% if page.title %}
-                        <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
+                    <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
                     {% else %}
-                        <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
+                    <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
+                    <h2 id="intro-to-website">Hello and Welcome to My Website</h2>
+                    <p>Here you will be able to find more information about me and my research interests</p>
                     {% endif %}
 
                     {{ content }}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
-                        {%- include disqus.html -%}
+                    {%- include disqus.html -%}
                     {%- endif -%}
+
                 </section>
             </div>
 
@@ -36,5 +35,5 @@
 
 <!-- introduce per-page mermaid support -->
 {% if page.mermaid %}
-    {% include mermaid.html %}
+{% include mermaid.html %}
 {% endif %}
