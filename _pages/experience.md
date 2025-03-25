@@ -5,52 +5,43 @@ date: 2023-12-03
 category: Jekyll
 layout: post
 ---
-# Education
-
-## Yonsei University (Seoul, Korea)
-### M.A. in Library and Information Science
-**September 2020 - February 2023**
+## Research Interests
+- Text Mining
+- Natural Language Processing
+- Medical Informatics
+- Health Informatics
+---
+## Education
+#### Drexel University (Philadelphia, PA, USA)
+**Ph.D. in Information Science**  
+*Sep 2023 – Present*  
+- Faculty Advisor: Christopher C. Yang
+#### Yonsei University (Seoul, S. Korea)
+**M.A. in Library Information Science**  
+*September 2020 – February 2023*  
+- Faculty Advisor: Min Song
 - **Thesis:** “Using BERT-based Deep Learning Models to Analyze Antidepressants’ Side Effects with Social Media and Online Community Text Data”
-  - Focus: Detection of adverse drug effects of antidepressants from social media text data using Transformer models and normalizing the detected A.D.E. mentions.
 
-### B.A. in Library and Information Science and History
-**March 2013 - February 2018**
-
----
-
-# Academic and Professional Experiences
-
-## TSMM Lab (Text and Social Media Mining Lab at Yonsei University)
-- **September 2020 – August 2022**
-  - Korean National Research Foundation Grants project: “Multi-facet Textmining System Development for MCMT Analysis”
-- **September 2022 – August 2023**
-  - Development of a text mining system for analyzing cell-line related data for KOREA BIOINFORMATION CENTER’s project.
-
-### Internship
-**February 2019 – November 2019**
-- Librarian Intern at Columbia University’s C.V. Starr East Asia Library 
+**B.A. in Library and Information Science, History**  
+*March 2013 – February 2018*
 
 ---
-
-# Publications
-
-1. **Lee, Y., Son, J., Song, M. (2022).** BertSRC: transformer-based semantic relation classification. BMC medical informatics and decision making, 22(1), 234. [Link](https://doi.org/10.1186/s12911-022-01977-5)
-
-2. **Lee, Y., Ahn, Y., Kim, H., Syafiandini, A.F., Park, Y. (2022, January 19).** Building a Biomedical Classification Model: Using a Corpus Annotated with Semantic Relation. [Conference presentation abstract]. The Third International Workshop on Social Health in the Era of Big Data (SHEBD 2022), Daegu, Korea.
-
-3. **Song, G., Ahn, Y., Choi, J., Kim, H., Syafiandini, A.F., Park, Y., Lee, Y. (2021, January 17-20).** Hypothesis Generation Study based on Literature-Based Discovery (LBD) between Xanthium ingredients and Diabetes. [Conference presentation abstract]. The Second International Workshop on Social Health in the Era of Big Data (SHEBD 2021), Jeju, Korea.
+## Publications
+- **Lee, Y., Chang, CH. & Yang, C.C. (2025).** Enhancing Patient-Physician Communication: Simulating African American Vernacular English in Medical Diagnostics with Large Language Models. Journal of Healthcare Informatics Research.
+- **Chang, C. H., Lucas, M. M, Lee, Y., Yang, C.C. (2024).** Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging. *AIME 2024 (Short Paper Track)*.
+- **Lee, Y., Son, J., Song, M. (2022).** BertSRC: transformer-based semantic relation classification. *BMC Medical Informatics and Decision Making*, 22(1), 234.
 
 ---
+## Previous Academic and Professional Experiences
 
-# Languages
+#### TSMM(Text and Social Media Mining) Lab, Yonsei University
+- **September 2020 – August 2022**  
+  >Participated in Korean National Research Foundation Grants project, “Multi-facet Text Mining System Development for MCMT(multi-component multi-target) Analysis” as part of my Master’s research.
+- **September 2022 – August 2023**  
+  >Developed a text mining system for analyzing cell-line related data for Korea Bioinformation Center (KOBIC) project.
 
-- **Korean:** Fluent
-- **English:** Advanced
+#### Internship
+- **February 2019 – November 2019**  
+  Librarian Intern at Columbia University’s C.V. Starr East Asia Library
 
----
 
-# Computer Knowledge
-
-- **Languages:** Python, C, C#, Java
-- **Frameworks:** MongoDB, SQL, Solr
-- **Theories:** OOP, Software Development Cycle, Deployment of a Backend Service, Networking
