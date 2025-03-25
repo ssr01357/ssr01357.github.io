@@ -10,6 +10,7 @@ layout: post
 - Natural Language Processing
 - Medical Informatics
 - Health Informatics
+
 ---
 ## Education
 #### Drexel University (Philadelphia, PA, USA)
