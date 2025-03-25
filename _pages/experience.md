@@ -9,7 +9,7 @@ layout: post
 
 ## Yonsei University (Seoul, Korea)
 ### M.A. in Library and Information Science
-**September 2020 - (Expected) February 2023**
+**September 2020 - February 2023**
 - **Thesis:** “Using BERT-based Deep Learning Models to Analyze Antidepressants’ Side Effects with Social Media and Online Community Text Data”
   - Focus: Detection of adverse drug effects of antidepressants from social media text data using Transformer models and normalizing the detected A.D.E. mentions.
 
